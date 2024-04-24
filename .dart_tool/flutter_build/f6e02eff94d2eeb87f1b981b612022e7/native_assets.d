@@ -1,0 +1,1 @@
+ C:\\src\\flutter_projects\\miniblog\\.dart_tool\\flutter_build\\f6e02eff94d2eeb87f1b981b612022e7\\native_assets.yaml: 
